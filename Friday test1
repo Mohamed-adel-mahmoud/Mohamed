@@ -1,0 +1,5 @@
+list1 = [12,"apple",True,2.5]
+tuple1 = (1999,"history",False,2.5)
+set1 = {1,5,8,7,4,9,6}
+dict1 = {"cat":"she is so kind and she looks like a smale tiger ",
+        "dog":"people use dogs for hunting and protection"}
